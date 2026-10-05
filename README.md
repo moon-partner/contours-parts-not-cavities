@@ -68,7 +68,7 @@ from the public ABO bucket using `real/abo/3dmodels.csv.gz`.
 
 ## Cite
 
-See `CITATION.cff`.
+See `CITATION.cff`. DOI: [10.6084/m9.figshare.34068864](https://doi.org/10.6084/m9.figshare.34068864)
 
 ## License
 

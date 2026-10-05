@@ -7,6 +7,7 @@ authors:
     given-names: Tianyu
     affiliation: Independent researcher
 version: 1.0.0
+doi: 10.6084/m9.figshare.34068864
 date-released: 2026-10-05
 license: MIT
 repository-code: "https://github.com/moon-partner/contours-parts-not-cavities"
