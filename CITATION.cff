@@ -9,7 +9,7 @@ authors:
 version: 1.0.0
 date-released: 2026-10-05
 license: MIT
-repository-code: "TBD (fill after uploading to GitHub)"
+repository-code: "https://github.com/moon-partner/contours-parts-not-cavities"
 keywords:
   - 3D reconstruction
   - part assembly

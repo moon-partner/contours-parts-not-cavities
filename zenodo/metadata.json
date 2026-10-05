@@ -25,7 +25,7 @@
   "version": "1.0.0",
   "related_identifiers": [
     {
-      "identifier": "TODO_GITHUB_URL",
+      "identifier": "https://github.com/moon-partner/contours-parts-not-cavities",
       "relation": "isSupplementedBy",
       "scheme": "url"
     }
