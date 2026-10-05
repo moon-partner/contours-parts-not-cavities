@@ -1,0 +1,20 @@
+{
+ "name": "B073G7BVBP",
+ "resolution": 512,
+ "ortho_scale": 1.1175,
+ "center": [
+  -0.0001,
+  -0.0005,
+  0.2354
+ ],
+ "views": [
+  "front",
+  "side",
+  "top"
+ ],
+ "parts": [
+  "AIPAMDBPGHBAAAAAFMBAAAAAAAAAPCFLAGGO",
+  "AJGCMDBPGHBAAAAAFMBAAAAAAAAAANIBDMMC"
+ ],
+ "source": "E:\\Blender\\real\\abo\\models\\B073G7BVBP.glb"
+}

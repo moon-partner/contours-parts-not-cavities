@@ -1,0 +1,20 @@
+{
+ "name": "B07TTCHR9T",
+ "resolution": 512,
+ "ortho_scale": 2.6818,
+ "center": [
+  0.0,
+  -0.0,
+  0.0149
+ ],
+ "views": [
+  "front",
+  "side",
+  "top"
+ ],
+ "parts": [
+  "B07TTCHR9T_TRB_MDL_MR3",
+  "B07TTCHR9T_TRB_MDL_MR4"
+ ],
+ "source": "E:\\Blender\\real\\abo\\models\\B07TTCHR9T.glb"
+}

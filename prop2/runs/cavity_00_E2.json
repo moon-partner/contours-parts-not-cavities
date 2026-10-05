@@ -1,0 +1,11 @@
+{
+ "cavity_fill": 0.6828703703703703,
+ "false_cavity": 0.7880690737833596,
+ "dilation": 0.0,
+ "sil_iou": 0.8835063437139562,
+ "obj": "cavity_00",
+ "kind": "cavity",
+ "cond": "E2",
+ "secs": 177.5,
+ "iters": 1200
+}

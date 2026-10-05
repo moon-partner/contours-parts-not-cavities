@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# large regenerable assets (public bucket re-download via abo_fetch.py)
+real/abo/models/
+real/abo/listings.json.gz
+# local tooling
+.acl-report/
+prop2/logs/
+*.docx.tmp

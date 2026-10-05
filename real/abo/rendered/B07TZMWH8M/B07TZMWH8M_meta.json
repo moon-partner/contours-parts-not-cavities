@@ -1,0 +1,20 @@
+{
+ "name": "B07TZMWH8M",
+ "resolution": 512,
+ "ortho_scale": 3.0172,
+ "center": [
+  0.0,
+  -0.0,
+  0.0151
+ ],
+ "views": [
+  "front",
+  "side",
+  "top"
+ ],
+ "parts": [
+  "B07TZMWH8M_TRB_MDL_MR",
+  "B07TZMWH8M_TRB_MDL_MR1"
+ ],
+ "source": "E:\\Blender\\real\\abo\\models\\B07TZMWH8M.glb"
+}

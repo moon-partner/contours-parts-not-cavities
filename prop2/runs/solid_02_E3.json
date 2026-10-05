@@ -1,0 +1,10 @@
+{
+ "false_cavity": 0.6694484021982495,
+ "dilation": 0.0,
+ "sil_iou": 0.8546712802768166,
+ "obj": "solid_02",
+ "kind": "solid",
+ "cond": "E3",
+ "secs": 549.8,
+ "iters": 1200
+}

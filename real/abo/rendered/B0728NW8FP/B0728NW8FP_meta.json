@@ -1,0 +1,20 @@
+{
+ "name": "B0728NW8FP",
+ "resolution": 512,
+ "ortho_scale": 0.8861,
+ "center": [
+  0.0002,
+  -0.0034,
+  0.4028
+ ],
+ "views": [
+  "front",
+  "side",
+  "top"
+ ],
+ "parts": [
+  "AGCPKNFHGHCAAAAAFMBAAAAAAAAABBGMICJI",
+  "APEPKNFHGHCAAAAAFMBAAAAAAAAAGDCNGKIC"
+ ],
+ "source": "E:\\Blender\\real\\abo\\models\\B0728NW8FP.glb"
+}

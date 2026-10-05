@@ -1,0 +1,20 @@
+{
+ "name": "B07DTF7N9Q",
+ "resolution": 512,
+ "ortho_scale": 0.5056,
+ "center": [
+  0.0,
+  -0.076,
+  0.0
+ ],
+ "views": [
+  "front",
+  "side",
+  "top"
+ ],
+ "parts": [
+  "B07DTF7N9Q_TRB_MDL_MR2",
+  "ifmMDLMaterial4"
+ ],
+ "source": "E:\\Blender\\real\\abo\\models\\B07DTF7N9Q.glb"
+}

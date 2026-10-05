@@ -1,0 +1,282 @@
+[
+ {
+  "file": "cage_cup_00.npz",
+  "kind": "cage_cup",
+  "seed": 5001,
+  "n_parts": 6,
+  "n_edges": 7,
+  "hull_iou": 0.7775377969762419
+ },
+ {
+  "file": "cage_cup_01.npz",
+  "kind": "cage_cup",
+  "seed": 5002,
+  "n_parts": 6,
+  "n_edges": 7,
+  "hull_iou": 0.7857142857142857
+ },
+ {
+  "file": "cage_cup_02.npz",
+  "kind": "cage_cup",
+  "seed": 5003,
+  "n_parts": 6,
+  "n_edges": 7,
+  "hull_iou": 0.7797979797979798
+ },
+ {
+  "file": "cage_cup_03.npz",
+  "kind": "cage_cup",
+  "seed": 5004,
+  "n_parts": 6,
+  "n_edges": 7,
+  "hull_iou": 0.7274678111587983
+ },
+ {
+  "file": "cage_cup_04.npz",
+  "kind": "cage_cup",
+  "seed": 5005,
+  "n_parts": 6,
+  "n_edges": 7,
+  "hull_iou": 0.7819706498951782
+ },
+ {
+  "file": "chair_00.npz",
+  "kind": "chair",
+  "seed": 5006,
+  "n_parts": 8,
+  "n_edges": 10,
+  "hull_iou": 0.9036004645760743
+ },
+ {
+  "file": "chair_01.npz",
+  "kind": "chair",
+  "seed": 5007,
+  "n_parts": 8,
+  "n_edges": 10,
+  "hull_iou": 0.9052132701421801
+ },
+ {
+  "file": "chair_02.npz",
+  "kind": "chair",
+  "seed": 5008,
+  "n_parts": 8,
+  "n_edges": 10,
+  "hull_iou": 0.9100968188105117
+ },
+ {
+  "file": "chair_03.npz",
+  "kind": "chair",
+  "seed": 5009,
+  "n_parts": 8,
+  "n_edges": 10,
+  "hull_iou": 0.8991596638655462
+ },
+ {
+  "file": "chair_04.npz",
+  "kind": "chair",
+  "seed": 5010,
+  "n_parts": 8,
+  "n_edges": 10,
+  "hull_iou": 0.8580562659846548
+ },
+ {
+  "file": "table_00.npz",
+  "kind": "table",
+  "seed": 5011,
+  "n_parts": 5,
+  "n_edges": 4,
+  "hull_iou": 0.8893709327548807
+ },
+ {
+  "file": "table_01.npz",
+  "kind": "table",
+  "seed": 5012,
+  "n_parts": 5,
+  "n_edges": 4,
+  "hull_iou": 0.9866071428571429
+ },
+ {
+  "file": "table_02.npz",
+  "kind": "table",
+  "seed": 5013,
+  "n_parts": 5,
+  "n_edges": 4,
+  "hull_iou": 0.9951573849878934
+ },
+ {
+  "file": "table_03.npz",
+  "kind": "table",
+  "seed": 5014,
+  "n_parts": 5,
+  "n_edges": 4,
+  "hull_iou": 0.8961864406779662
+ },
+ {
+  "file": "table_04.npz",
+  "kind": "table",
+  "seed": 5015,
+  "n_parts": 5,
+  "n_edges": 4,
+  "hull_iou": 0.9122401847575058
+ },
+ {
+  "file": "bracket_00.npz",
+  "kind": "bracket",
+  "seed": 5016,
+  "n_parts": 3,
+  "n_edges": 3,
+  "hull_iou": 0.8344519015659956
+ },
+ {
+  "file": "bracket_01.npz",
+  "kind": "bracket",
+  "seed": 5017,
+  "n_parts": 3,
+  "n_edges": 3,
+  "hull_iou": 0.8344519015659956
+ },
+ {
+  "file": "bracket_02.npz",
+  "kind": "bracket",
+  "seed": 5018,
+  "n_parts": 3,
+  "n_edges": 3,
+  "hull_iou": 0.8344519015659956
+ },
+ {
+  "file": "bracket_03.npz",
+  "kind": "bracket",
+  "seed": 5019,
+  "n_parts": 3,
+  "n_edges": 3,
+  "hull_iou": 0.8344519015659956
+ },
+ {
+  "file": "bracket_04.npz",
+  "kind": "bracket",
+  "seed": 5020,
+  "n_parts": 3,
+  "n_edges": 3,
+  "hull_iou": 0.8344519015659956
+ },
+ {
+  "file": "spring_00.npz",
+  "kind": "spring",
+  "seed": 5021,
+  "n_parts": 1,
+  "n_edges": 0,
+  "hull_iou": 0.787765293383271
+ },
+ {
+  "file": "spring_01.npz",
+  "kind": "spring",
+  "seed": 5022,
+  "n_parts": 1,
+  "n_edges": 0,
+  "hull_iou": 0.7732696897374701
+ },
+ {
+  "file": "spring_02.npz",
+  "kind": "spring",
+  "seed": 5023,
+  "n_parts": 1,
+  "n_edges": 0,
+  "hull_iou": 0.7872093023255814
+ },
+ {
+  "file": "spring_03.npz",
+  "kind": "spring",
+  "seed": 5024,
+  "n_parts": 1,
+  "n_edges": 0,
+  "hull_iou": 0.74090407938258
+ },
+ {
+  "file": "spring_04.npz",
+  "kind": "spring",
+  "seed": 5025,
+  "n_parts": 1,
+  "n_edges": 0,
+  "hull_iou": 0.7807118254879449
+ },
+ {
+  "file": "jar_lid_00.npz",
+  "kind": "jar_lid",
+  "seed": 5026,
+  "n_parts": 2,
+  "n_edges": 0,
+  "hull_iou": 0.45376607470912433
+ },
+ {
+  "file": "jar_lid_01.npz",
+  "kind": "jar_lid",
+  "seed": 5027,
+  "n_parts": 2,
+  "n_edges": 0,
+  "hull_iou": 0.45376607470912433
+ },
+ {
+  "file": "jar_lid_02.npz",
+  "kind": "jar_lid",
+  "seed": 5028,
+  "n_parts": 2,
+  "n_edges": 0,
+  "hull_iou": 0.45376607470912433
+ },
+ {
+  "file": "jar_lid_03.npz",
+  "kind": "jar_lid",
+  "seed": 5029,
+  "n_parts": 2,
+  "n_edges": 0,
+  "hull_iou": 0.45376607470912433
+ },
+ {
+  "file": "jar_lid_04.npz",
+  "kind": "jar_lid",
+  "seed": 5030,
+  "n_parts": 2,
+  "n_edges": 0,
+  "hull_iou": 0.45376607470912433
+ },
+ {
+  "file": "box_in_box_00.npz",
+  "kind": "box_in_box",
+  "seed": 5031,
+  "n_parts": 2,
+  "n_edges": 0,
+  "hull_iou": 0.7903831705484599
+ },
+ {
+  "file": "box_in_box_01.npz",
+  "kind": "box_in_box",
+  "seed": 5032,
+  "n_parts": 2,
+  "n_edges": 0,
+  "hull_iou": 0.7092411720510894
+ },
+ {
+  "file": "box_in_box_02.npz",
+  "kind": "box_in_box",
+  "seed": 5033,
+  "n_parts": 2,
+  "n_edges": 0,
+  "hull_iou": 0.7903831705484599
+ },
+ {
+  "file": "box_in_box_03.npz",
+  "kind": "box_in_box",
+  "seed": 5034,
+  "n_parts": 2,
+  "n_edges": 0,
+  "hull_iou": 0.7903831705484599
+ },
+ {
+  "file": "box_in_box_04.npz",
+  "kind": "box_in_box",
+  "seed": 5035,
+  "n_parts": 2,
+  "n_edges": 0,
+  "hull_iou": 0.836213373403456
+ }
+]

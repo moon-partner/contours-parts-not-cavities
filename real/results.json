@@ -1,0 +1,207 @@
+[
+ {
+  "object": "B0728NW8FP",
+  "res": 128,
+  "span": 0.8861,
+  "parts": 2,
+  "part_names": [
+   "AGCPKNFHGHCAAAAAFMBAAAAAAAAABBGMICJI",
+   "APEPKNFHGHCAAAAAFMBAAAAAAAAAGDCNGKIC"
+  ],
+  "sem_map": [
+   "seat",
+   "leg0"
+  ],
+  "gt_edges": [
+   [
+    0,
+    1
+   ]
+  ],
+  "c0_paths_only_fn": 0,
+  "conditions": {
+   "C1": {
+    "m1": [
+     0,
+     0,
+     0
+    ],
+    "m2_fp": 0,
+    "m2_fn": 0,
+    "m2_tc": 0,
+    "pred_edges": [
+     [
+      0,
+      1
+     ]
+    ],
+    "cd": 0.0182
+   },
+   "C5": {
+    "m1": [
+     0,
+     0,
+     0
+    ],
+    "m2_fp": 0,
+    "m2_fn": 0,
+    "m2_tc": 0,
+    "pred_edges": [
+     [
+      0,
+      1
+     ]
+    ],
+    "cd": 0.0182
+   },
+   "C4": {
+    "m1": null,
+    "m2_fp": 0,
+    "m2_fn": 0,
+    "m2_tc": 0,
+    "pred_edges": [
+     [
+      0,
+      1
+     ]
+    ],
+    "cd": 0.0177
+   }
+  }
+ },
+ {
+  "object": "B07DBHLX1W",
+  "res": 128,
+  "span": 1.6201,
+  "parts": 2,
+  "part_names": [
+   "AIIGIONLMKCAAAAAFMBAAAAAAAAANPEIOBFA",
+   "AEOFIONLMKCAAAAAFMBAAAAAAAAALBNKAPJN"
+  ],
+  "sem_map": [
+   "ring_top",
+   "post0"
+  ],
+  "gt_edges": [
+   [
+    0,
+    1
+   ]
+  ],
+  "c0_paths_only_fn": 0,
+  "conditions": {
+   "C1": {
+    "m1": [
+     0,
+     0,
+     0
+    ],
+    "m2_fp": 0,
+    "m2_fn": 0,
+    "m2_tc": 0,
+    "pred_edges": [
+     [
+      0,
+      1
+     ]
+    ],
+    "cd": 0.0104
+   },
+   "C5": {
+    "m1": [
+     0,
+     0,
+     0
+    ],
+    "m2_fp": 0,
+    "m2_fn": 0,
+    "m2_tc": 0,
+    "pred_edges": [
+     [
+      0,
+      1
+     ]
+    ],
+    "cd": 0.0104
+   },
+   "C4": {
+    "m1": null,
+    "m2_fp": 0,
+    "m2_fn": 1,
+    "m2_tc": 1,
+    "pred_edges": [],
+    "cd": 0.0274
+   }
+  }
+ },
+ {
+  "object": "B07HSDX2CQ",
+  "res": 128,
+  "span": 1.0176,
+  "parts": 2,
+  "part_names": [
+   "B07HSDX2CQ_TRB_Velvet",
+   "B07HSDX2CQ_TRB_MDL_MR"
+  ],
+  "sem_map": [
+   "seat",
+   "leg0"
+  ],
+  "gt_edges": [
+   [
+    0,
+    1
+   ]
+  ],
+  "c0_paths_only_fn": 0,
+  "conditions": {
+   "C1": {
+    "m1": [
+     0,
+     0,
+     0
+    ],
+    "m2_fp": 0,
+    "m2_fn": 0,
+    "m2_tc": 0,
+    "pred_edges": [
+     [
+      0,
+      1
+     ]
+    ],
+    "cd": 0.0125
+   },
+   "C5": {
+    "m1": [
+     0,
+     0,
+     0
+    ],
+    "m2_fp": 0,
+    "m2_fn": 0,
+    "m2_tc": 0,
+    "pred_edges": [
+     [
+      0,
+      1
+     ]
+    ],
+    "cd": 0.0125
+   },
+   "C4": {
+    "m1": null,
+    "m2_fp": 0,
+    "m2_fn": 0,
+    "m2_tc": 0,
+    "pred_edges": [
+     [
+      0,
+      1
+     ]
+    ],
+    "cd": 0.0147
+   }
+  }
+ }
+]

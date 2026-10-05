@@ -1,0 +1,20 @@
+{
+ "name": "B07TS83QM9",
+ "resolution": 512,
+ "ortho_scale": 1.676,
+ "center": [
+  0.0,
+  -0.0,
+  0.0152
+ ],
+ "views": [
+  "front",
+  "side",
+  "top"
+ ],
+ "parts": [
+  "B07TS83QM9_TRB_MDL_MR1",
+  "B07TS83QM9_TRB_MDL_MR"
+ ],
+ "source": "E:\\Blender\\real\\abo\\models\\B07TS83QM9.glb"
+}

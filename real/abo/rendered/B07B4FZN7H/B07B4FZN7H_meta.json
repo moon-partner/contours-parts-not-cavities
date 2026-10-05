@@ -1,0 +1,20 @@
+{
+ "name": "B07B4FZN7H",
+ "resolution": 512,
+ "ortho_scale": 0.8733,
+ "center": [
+  -0.0038,
+  -0.0006,
+  0.2424
+ ],
+ "views": [
+  "front",
+  "side",
+  "top"
+ ],
+ "parts": [
+  "AEOFAIFIINCAAAAAFMBAAAAAAAAAMMAFMHMD",
+  "AGDGAIFIINCAAAAAFMBAAAAAAAAAKNNGPEDG"
+ ],
+ "source": "E:\\Blender\\real\\abo\\models\\B07B4FZN7H.glb"
+}

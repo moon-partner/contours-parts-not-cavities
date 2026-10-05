@@ -1,0 +1,33 @@
+{
+  "title": "Contours Tell You Parts, Not Cavities: an Identifiability Boundary for Orthographic Three-View Reconstruction, with Semantic Part Assembly and Confidence-Weighted Solid Priors",
+  "creators": [
+    {
+      "name": "Fan, Tianyu",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "<p><b>Background.</b> Reconstructing 3D shape from three orthographic silhouettes is deceptively under-constrained. We make the boundary explicit and build two practical methods on the observable side of it.</p><p><b>Contributions.</b> (1) <i>Theorem 1 (identifiability boundary):</i> for any object whose exterior is axis-visible, the visual-hull error set equals exactly the union of enclosed cavities — closed cavities carry zero information in contours, for per-part or joint methods alike. (2) <i>Semantic part assembly:</i> shared-frame per-part reconstruction gated by a leave-one-out semantic compatibility table recovers part-contact topology exactly (35 synthetic objects × 7 conditions; all three pre-registered criteria pass: Chamfer −21.3%, graph errors −100% vs no-semantics and no-shared-frame ablations). (3) <i>Confidence-weighted solid priors:</i> a hull-gated solid-volume regularizer with warmup fixes the false-cavity pathology of contour-only SDF fitting (−75.5%, p=0.039 primary; −72.9%, p=8e-5 pooled; disclosures in the paper) and reveals an all-solid attractor explosion as a dose-dependent failure mode. (4) <i>Real-geometry transfer:</i> three ABO product models, split and voxelized fully automatically, yield exact contact recovery and 1–2% world-normalized Chamfer with zero-shot semantic transfer.</p><p><b>Artifacts.</b> The deposit includes the full paper draft, all experimental code, per-run records, figures, and an independent verification suite (98 assertions, 0 mismatches). A public repository with a one-command reproduction (≈3 min, cached results) accompanies this deposit; see related identifiers.</p><p><b>License.</b> MIT (code). ABO models: CC-BY 4.0.</p>",
+  "license": "mit",
+  "keywords": [
+    "3D reconstruction",
+    "visual hull",
+    "identifiability",
+    "silhouettes",
+    "part assembly",
+    "skeleton topology",
+    "SDF",
+    "solid prior",
+    "reproducibility"
+  ],
+  "language": "eng",
+  "version": "1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "TODO_GITHUB_URL",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ]
+}

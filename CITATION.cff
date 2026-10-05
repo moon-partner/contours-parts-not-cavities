@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these artifacts, please cite this software."
+title: "Semantic Part Assembly in Shared Tri-Plane Space and Confidence-Weighted Solid Priors for Contour-Based 3D Reconstruction"
+type: software
+authors:
+  - family-names: Fan
+    given-names: Tianyu
+    affiliation: Independent researcher
+version: 1.0.0
+date-released: 2026-10-05
+license: MIT
+repository-code: "TBD (fill after uploading to GitHub)"
+keywords:
+  - 3D reconstruction
+  - part assembly
+  - skeleton topology
+  - SDF
+  - solid prior
+  - identifiability boundary

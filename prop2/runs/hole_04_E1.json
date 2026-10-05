@@ -1,0 +1,11 @@
+{
+ "hole_retention": 0.9588477366255144,
+ "false_cavity": 0.1011971567527123,
+ "dilation": 0.0,
+ "sil_iou": 0.9899999999999999,
+ "obj": "hole_04",
+ "kind": "hole",
+ "cond": "E1",
+ "secs": 179.9,
+ "iters": 1200
+}

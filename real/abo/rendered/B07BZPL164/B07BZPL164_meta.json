@@ -1,0 +1,20 @@
+{
+ "name": "B07BZPL164",
+ "resolution": 512,
+ "ortho_scale": 0.9377,
+ "center": [
+  -0.0072,
+  0.0451,
+  0.4262
+ ],
+ "views": [
+  "front",
+  "side",
+  "top"
+ ],
+ "parts": [
+  "AILHJOJMHBCAAAAAFMBAAAAAAAAAKGNINBBC",
+  "AOBGJOJMHBCAAAAAFMBAAAAAAAAABDJDLLIA"
+ ],
+ "source": "E:\\Blender\\real\\abo\\models\\B07BZPL164.glb"
+}

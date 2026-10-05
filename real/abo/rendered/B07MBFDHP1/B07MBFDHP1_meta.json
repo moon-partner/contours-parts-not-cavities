@@ -1,0 +1,20 @@
+{
+ "name": "B07MBFDHP1",
+ "resolution": 512,
+ "ortho_scale": 0.4394,
+ "center": [
+  -0.0,
+  0.0,
+  0.1997
+ ],
+ "views": [
+  "front",
+  "side",
+  "top"
+ ],
+ "parts": [
+  "B07MBFDHP1_TRB_MDL_MR",
+  "B07MBFDHP1_TRB_MDL_MR1"
+ ],
+ "source": "E:\\Blender\\real\\abo\\models\\B07MBFDHP1.glb"
+}

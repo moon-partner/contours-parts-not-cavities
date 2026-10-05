@@ -1,0 +1,20 @@
+{
+ "name": "B07DBHLX1W",
+ "resolution": 512,
+ "ortho_scale": 1.6201,
+ "center": [
+  -0.0,
+  0.0,
+  0.7364
+ ],
+ "views": [
+  "front",
+  "side",
+  "top"
+ ],
+ "parts": [
+  "AIIGIONLMKCAAAAAFMBAAAAAAAAANPEIOBFA",
+  "AEOFIONLMKCAAAAAFMBAAAAAAAAALBNKAPJN"
+ ],
+ "source": "E:\\Blender\\real\\abo\\models\\B07DBHLX1W.glb"
+}

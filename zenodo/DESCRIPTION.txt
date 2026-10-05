@@ -1,0 +1,24 @@
+Reconstructing 3D shape from three orthographic silhouettes is deceptively
+under-constrained. We make the boundary explicit and build two practical
+methods on the observable side of it.
+
+(1) Theorem 1 (identifiability boundary): for any object whose exterior is
+axis-visible, the visual-hull error set equals exactly the union of enclosed
+cavities -- closed cavities carry zero information in contours, for per-part
+or joint methods alike. (2) Semantic part assembly: shared-frame per-part
+reconstruction gated by a leave-one-out semantic compatibility table recovers
+part-contact topology exactly (35 synthetic objects x 7 conditions; all three
+pre-registered criteria pass). (3) Confidence-weighted solid priors: a
+hull-gated solid-volume regularizer with warmup fixes the false-cavity
+pathology of contour-only SDF fitting (-75.5%, p=0.039 primary; -72.9%,
+p=8e-5 pooled) and reveals an all-solid attractor explosion as a
+dose-dependent failure mode. (4) Real-geometry transfer: three ABO product
+models, split and voxelized fully automatically, yield exact contact recovery
+and 1-2% world-normalized Chamfer with zero-shot semantic transfer.
+
+The deposit contains the paper draft, all experimental code, per-run records,
+figures, and an independent verification suite (98 assertions, 0 mismatches).
+A public GitHub repository provides one-command reproduction (~3 minutes,
+cached results); see related identifiers.
+
+License: MIT (code). ABO models: CC-BY 4.0.
